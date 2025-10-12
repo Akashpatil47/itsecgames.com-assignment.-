@@ -6,12 +6,12 @@
 ---
 
 ## 🎯 Objective  
-Evaluate the security posture of **[http://www.itsecgames.com](http://www.itsecgames.com)** by identifying vulnerabilities, outdated software, and SSL/TLS configuration issues using open-source tools.
+Evaluate the security posture of **(http://www.itsecgames.com)** by identifying vulnerabilities, outdated software, and SSL/TLS configuration issues using open-source tools.
 
 ---
 
 ## 🧰 Tools Used  
-Nmap, Nikto, OWASP ZAP, Netcraft, SearchSploit, Smart Scanner, cURL, whois, dig ,etc.
+Nmap, Nikto, OWASP ZAP, Netcraft, SearchSploit, Smart Scanner, cURL, whois, dig, etc.
 
 ---
 
