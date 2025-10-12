@@ -35,17 +35,17 @@ Nmap, Nikto, OWASP ZAP, Netcraft, SearchSploit, Smart Scanner, cURL, whois, dig 
 ---
 
 ## 📂 Project Structure  
-#report/
+report/
 └─ Final report of itsecgames.com.pdf
-#scans/
+scans/
 ├─ Check headers
 ├─ Port & service discovery (nmap)
 ├─ SSL TLS certificate health
 ├─ WHOIS lookup
 └─ cve/
 └─ vulnerability checks
-#screenshots/                                   
-#README.md
+screenshots/                                   
+README.md
 
 📄 [View Full Report] (report/Final report of itsecgames.com.pdf)  
 📧 Contact: akakashpatil7777@gmail.com  
