@@ -1,0 +1,9 @@
+Nmap scan report for itsecgames.com (31.3.96.40)
+Host is up (0.29s latency).
+Other addresses for itsecgames.com (not scanned): 64:ff9b::1f03:6028
+rDNS record for 31.3.96.40: web.mmebvba.com
+Not shown: 65532 filtered tcp ports (no-response)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 6.7p1 (protocol 2.0)
+80/tcp  open  http     Apache httpd
+443/tcp open  ssl/http Apache httpd
