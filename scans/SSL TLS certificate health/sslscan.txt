@@ -1,0 +1,46 @@
+Version: 2.1.5
+OpenSSL 3.5.0 8 Apr 2025
+
+Connected to 64:ff9b::1f03:6028
+
+Testing SSL server itsecgames.com on port 443 using SNI name itsecgames.com
+
+  SSL/TLS Protocols:
+SSLv2     disabled
+SSLv3     disabled
+TLSv1.0   disabled
+TLSv1.1   disabled
+TLSv1.2   enabled
+TLSv1.3   disabled
+
+  TLS Fallback SCSV:
+Server supports TLS Fallback SCSV
+
+  TLS renegotiation:
+Session renegotiation not supported
+
+  TLS Compression:
+Compression disabled
+
+  Heartbleed:
+TLSv1.2 not vulnerable to heartbleed
+
+  Supported Server Cipher(s):
+Preferred TLSv1.2  256 bits  ECDHE-RSA-AES256-GCM-SHA384   Curve P-256 DHE 256
+Accepted  TLSv1.2  256 bits  DHE-RSA-AES256-GCM-SHA384     DHE 2048 bits
+Accepted  TLSv1.2  128 bits  ECDHE-RSA-AES128-GCM-SHA256   Curve P-256 DHE 256
+Accepted  TLSv1.2  128 bits  DHE-RSA-AES128-GCM-SHA256     DHE 2048 bits
+
+  Server Key Exchange Group(s):
+TLSv1.2  128 bits  secp256r1 (NIST P-256)
+
+  SSL Certificate:
+Signature Algorithm: sha256WithRSAEncryption
+RSA Key Strength:    2048
+
+Subject:  mmebv.be
+Altnames: DNS:mmebv.be, DNS:mmebv.com, DNS:mmebvba.com, DNS:mmesec.be, DNS:mmesec.com, DNS:www.mmebv.be, DNS:www.mmebv.com, DNS:www.mmebvba.com, DNS:www.mmesec.be, DNS:www.mmesec.com
+Issuer:   R13
+
+Not valid before: Oct  5 09:59:50 2025 GMT
+Not valid after:  Jan  3 09:59:49 2026 GMT
